@@ -8,6 +8,13 @@ On completion of the acceptance criteria the website will include semantic HTML 
 
 By completion of the project the site should be more visible to search engines such as Google. 
 
+Refactoring updates made:
+- Changed the Title to the company name.
+- Added <header>, <main>, <footer> semanticv HTML elements.
+- Added alt descriptions to the images. 
+- 
+
+
 Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
