@@ -10,7 +10,7 @@ By completion of the project the site should be more visible to search engines s
 
 Refactoring updates made:
 - Changed the Title to the company name.
-- Removed Div and added <header>, <main>, <footer>, <section>, <article> semanticv HTML elements.
+- Removed Div and added header, main, footer, section, article semanticv HTML elements.
 - Added alt descriptions to the images. 
 - Removed numerous duplicate classes in the CSS.
 - Added the footer h2 class into the footer class.
